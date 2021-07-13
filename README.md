@@ -1,4 +1,4 @@
-# https-github.com-cerkezbilal
+# https-github.com-kodluyoruzilkrepo
 # Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
